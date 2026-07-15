@@ -142,5 +142,69 @@
         "link": "https://s3.amazonaws.com/criterion-production/films/b420f194b6a67f8ed2fa6131914747e8/zgXnSqQAPLzYBO73Us4MxXWLIRlW5q_large.jpg"
       }
     ]
+  },
+  {
+    "id": "far-cry",
+    "name": "Far Cry",
+    "type": "video-game",
+    "format": "PC CD-ROM",
+    "condition": "Loose",
+    "date_added": "2026-06-20",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vpf.webp"
+      }
+    ]
+  },
+  {
+    "id": "halo",
+    "name": "Halo",
+    "type": "video-game",
+    "format": "PC CD-ROM",
+    "condition": "Loose",
+    "date_added": "2026-06-20",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2r2r.webp"
+      }
+    ]
+  },
+  {
+    "id": "the-sims-3",
+    "name": "The Sims 3",
+    "type": "video-game",
+    "format": "PC CD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-06-20",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/coavu6.webp"
+      }
+    ]
+  },
+  {
+    "id": "the-sims-3-pets",
+    "name": "The Sims 3: Pets",
+    "type": "video-game",
+    "format": "PC CD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-06-20",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zpj.webp"
+      }
+    ]
   }
 ]
