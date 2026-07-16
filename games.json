@@ -131,7 +131,7 @@
     "id": "network",
     "name": "Network",
     "type": "movie",
-    "format": "Blu-Ray",
+    "format": "UHD Blu-Ray",
     "condition": "CIB",
     "date_added": "2026-07-07",
     "thumbnail_image_id": 0,
@@ -524,6 +524,86 @@
         "id": 0,
         "type": "external",
         "link": "https://static.wikia.nocookie.net/sims/images/f/f4/Best_of_Business.jpg/revision/latest/scale-to-width-down/250?cb=20190317111509"
+      }
+    ]
+  },
+  {
+    "id": "monty-pythons-life-of-brian",
+    "name": "Monty Python’s Life of Brian",
+    "type": "movie",
+    "format": "Blu-Ray",
+    "condition": "CIB",
+    "date_added": "2026-07-16",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://s3.amazonaws.com/criterion-production/films/fa2038df6fda23081690e24bd25b9eab/PVa3JchcwGqeeabgnUHCIPf5DFrgsw_large.jpg"
+      }
+    ]
+  },
+  {
+    "id": "dr-strangelove",
+    "name": "Dr. Strangelove, or: How I Learned to Stop Worrying and Love the Bomb",
+    "type": "movie",
+    "format": "Blu-Ray",
+    "condition": "CIB",
+    "date_added": "2026-07-16",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://s3.amazonaws.com/criterion-production/films/0a9d8cafec1031c98436007b77553d6f/8RnJTFRJr7Ho5oNBlduI3C9erCpY1t_large.jpg"
+      }
+    ]
+  },
+  {
+    "id": "true-stories",
+    "name": "True Stories",
+    "type": "movie",
+    "format": "Blu-Ray",
+    "condition": "CIB",
+    "date_added": "2026-07-16",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://s3.amazonaws.com/criterion-production/films/7577ed3ce6bab96d5193c4b744e0098a/1xw1IyFisGyE1qcyYVvxGWy8nUZv89_large.jpg"
+      }
+    ]
+  },
+  {
+    "id": "marty-supreme",
+    "name": "Marty Supreme",
+    "type": "movie",
+    "format": "UHD Blu-Ray",
+    "condition": "CIB",
+    "date_added": "2026-07-16",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://shop.a24films.com/cdn/shop/files/03_MS_4K_Cover_Digi_tight_gray.jpg?v=1770658899"
+      }
+    ]
+  },
+  {
+    "id": "eddington",
+    "name": "Eddington",
+    "type": "movie",
+    "format": "Blu-Ray",
+    "condition": "CIB",
+    "date_added": "2026-07-16",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://shop.a24films.com/cdn/shop/files/103_Eddington_Blu-ray_Cover_Front_With_Digipak_Tight-Gray_53e182dc-d594-405c-897a-ed13e75f172e.jpg?v=1759436174"
       }
     ]
   }
