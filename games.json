@@ -2,7 +2,7 @@
   {
     "id": "the-sims",
     "name": "The Sims",
-    "type": "video_game",
+    "type": "video-game",
     "format": "PC CD-ROM",
     "condition": "CIB",
     "date_added": "2026-05-09",
@@ -18,7 +18,7 @@
   {
     "id": "the-sims-livin-large",
     "name": "The Sims: Livin' Large",
-    "type": "video_game",
+    "type": "video-game",
     "format": "PC CD-ROM",
     "condition": "Loose",
     "date_added": "2026-06-30",
@@ -34,7 +34,7 @@
   {
     "id": "the-sims-house-party",
     "name": "The Sims: House Party",
-    "type": "video_game",
+    "type": "video-game",
     "format": "PC CD-ROM",
     "condition": "Loose",
     "date_added": "2026-07-10",
@@ -50,7 +50,7 @@
   {
     "id": "the-sims-hot-date",
     "name": "The Sims: Hot Date",
-    "type": "video_game",
+    "type": "video-game",
     "format": "PC CD-ROM",
     "condition": "Loose",
     "date_added": "2026-07-10",
@@ -66,7 +66,7 @@
   {
     "id": "the-sims-vacation",
     "name": "The Sims: Vacation",
-    "type": "video_game",
+    "type": "video-game",
     "format": "PC CD-ROM",
     "condition": "Loose",
     "date_added": "2026-07-10",
@@ -82,7 +82,7 @@
   {
     "id": "the-sims-superstar",
     "name": "The Sims: Superstar",
-    "type": "video_game",
+    "type": "video-game",
     "format": "PC CD-ROM",
     "condition": "Loose",
     "date_added": "2026-07-13",
@@ -98,7 +98,7 @@
   {
     "id": "the-sims-makin-magic",
     "name": "The Sims: Makin' Magic",
-    "type": "video_game",
+    "type": "video-game",
     "format": "PC CD-ROM",
     "condition": "CIB",
     "date_added": "2026-07-14",
