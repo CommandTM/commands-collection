@@ -523,7 +523,7 @@
       {
         "id": 0,
         "type": "external",
-        "link": "https://static.wikia.nocookie.net/sims/images/f/f4/Best_of_Business.jpg/revision/latest/scale-to-width-down/250?cb=20190317111509"
+        "link": "https://m.media-amazon.com/images/I/51kLCDXC2gL._AC_UF894,1000_QL80_.jpg"
       }
     ]
   },
@@ -604,6 +604,22 @@
         "id": 0,
         "type": "external",
         "link": "https://shop.a24films.com/cdn/shop/files/103_Eddington_Blu-ray_Cover_Front_With_Digipak_Tight-Gray_53e182dc-d594-405c-897a-ed13e75f172e.jpg?v=1759436174"
+      }
+    ]
+  },
+  {
+    "id": "the-sims-3-late-night",
+    "name": "The Sims 3: Late Night",
+    "type": "Video Game",
+    "format": "PC DVD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-07-17",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zpf.webp"
       }
     ]
   }
