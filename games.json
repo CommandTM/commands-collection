@@ -2,7 +2,7 @@
   {
     "id": "the-sims",
     "name": "The Sims",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "CIB",
     "date_added": "2026-05-09",
@@ -18,7 +18,7 @@
   {
     "id": "the-sims-livin-large",
     "name": "The Sims: Livin' Large",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "Loose",
     "date_added": "2026-06-30",
@@ -34,7 +34,7 @@
   {
     "id": "the-sims-house-party",
     "name": "The Sims: House Party",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "Loose",
     "date_added": "2026-07-10",
@@ -50,7 +50,7 @@
   {
     "id": "the-sims-hot-date",
     "name": "The Sims: Hot Date",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "Loose",
     "date_added": "2026-07-10",
@@ -66,7 +66,7 @@
   {
     "id": "the-sims-vacation",
     "name": "The Sims: Vacation",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "Loose",
     "date_added": "2026-07-10",
@@ -82,7 +82,7 @@
   {
     "id": "the-sims-superstar",
     "name": "The Sims: Superstar",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "Loose",
     "date_added": "2026-07-13",
@@ -98,7 +98,7 @@
   {
     "id": "the-sims-makin-magic",
     "name": "The Sims: Makin' Magic",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "CIB",
     "date_added": "2026-07-14",
@@ -114,7 +114,7 @@
   {
     "id": "house",
     "name": "House",
-    "type": "movie",
+    "type": "Movie",
     "format": "Blu-Ray",
     "condition": "CIB",
     "date_added": "2026-07-07",
@@ -130,7 +130,7 @@
   {
     "id": "network",
     "name": "Network",
-    "type": "movie",
+    "type": "Movie",
     "format": "UHD Blu-Ray",
     "condition": "CIB",
     "date_added": "2026-07-07",
@@ -146,7 +146,7 @@
   {
     "id": "far-cry",
     "name": "Far Cry",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "Loose",
     "date_added": "2026-06-20",
@@ -162,7 +162,7 @@
   {
     "id": "halo",
     "name": "Halo",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "Loose",
     "date_added": "2026-06-20",
@@ -178,7 +178,7 @@
   {
     "id": "the-sims-3",
     "name": "The Sims 3",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC DVD-ROM",
     "condition": "CIB",
     "date_added": "2026-06-20",
@@ -194,7 +194,7 @@
   {
     "id": "the-sims-3-pets",
     "name": "The Sims 3: Pets",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC DVD-ROM",
     "condition": "CIB",
     "date_added": "2026-06-20",
@@ -210,7 +210,7 @@
   {
     "id": "the-sims-2",
     "name": "The Sims 2",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "Loose",
     "date_added": "2026-01-31",
@@ -226,7 +226,7 @@
   {
     "id": "the-sims-2-university",
     "name": "The Sims 2: University",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "CIB",
     "date_added": "2026-06-24",
@@ -242,7 +242,7 @@
   {
     "id": "the-sims-2-nightlife",
     "name": "The Sims 2: Nightlife",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "CIB",
     "date_added": "2026-04-23",
@@ -258,7 +258,7 @@
   {
     "id": "the-sims-2-open-for-business",
     "name": "The Sims 2: Open For Business",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "CIB",
     "date_added": "2026-05-01",
@@ -274,7 +274,7 @@
   {
     "id": "the-sims-2-family-fun-stuff",
     "name": "The Sims 2: Family Fun Stuff",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "CIB",
     "date_added": "2026-04-06",
@@ -290,7 +290,7 @@
   {
     "id": "the-sims-2-glamour-life-stuff",
     "name": "The Sims 2: Glamour Life Stuff",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "CIB",
     "date_added": "2026-05-12",
@@ -306,7 +306,7 @@
   {
     "id": "the-sims-2-pets",
     "name": "The Sims 2: Pets",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "CIB",
     "date_added": "2026-06-03",
@@ -322,7 +322,7 @@
   {
     "id": "the-sims-2-happy-holiday-stuff",
     "name": "The Sims 2: Happy Holiday Stuff",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "CIB",
     "date_added": "2026-05-01",
@@ -338,7 +338,7 @@
   {
     "id": "the-sims-2-seasons",
     "name": "The Sims 2: Seasons",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "CIB",
     "date_added": "2026-06-10",
@@ -354,7 +354,7 @@
   {
     "id": "the-sims-2-celebration-stuff",
     "name": "The Sims 2: Celebration! Stuff",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "CIB",
     "date_added": "2026-06-13",
@@ -370,7 +370,7 @@
   {
     "id": "the-sims-2-hm-fashion-stuff",
     "name": "The Sims 2: H&M Fashion Stuff",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "CIB",
     "date_added": "2026-06-20",
@@ -386,7 +386,7 @@
   {
     "id": "INCOMPLETE-the-sims-2-bon-voyage",
     "name": "The Sims 2: Bon Voyage (INCOMPLETE)",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "Incomplete",
     "date_added": "2026-06-26",
@@ -402,7 +402,7 @@
   {
     "id": "the-sims-2-bon-voyage",
     "name": "The Sims 2: Bon Voyage",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "CIB",
     "date_added": "2026-07-06",
@@ -418,7 +418,7 @@
   {
     "id": "the-sims-2-teen-style-stuff",
     "name": "The Sims 2: Teen Style Stuff",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "CIB",
     "date_added": "2026-06-13",
@@ -434,7 +434,7 @@
   {
     "id": "the-sims-2-freetime",
     "name": "The Sims 2: FreeTime",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "CIB",
     "date_added": "2026-05-28",
@@ -450,7 +450,7 @@
   {
     "id": "the-sims-2-kitchen-bath-interior-design-stuff",
     "name": "The Sims 2: Kitchen & Bath Interior Design Stuff",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "CIB",
     "date_added": "2026-05-12",
@@ -466,7 +466,7 @@
   {
     "id": "the-sims-2-ikea-home-stuff",
     "name": "The Sims 2: IKEA Home Stuff",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC CD-ROM",
     "condition": "CIB",
     "date_added": "2026-05-12",
@@ -482,7 +482,7 @@
   {
     "id": "the-sims-2-apartment-life",
     "name": "The Sims 2: Apartment Life",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC DVD-ROM",
     "condition": "CIB",
     "date_added": "2026-05-07",
@@ -498,7 +498,7 @@
   {
     "id": "the-sims-2-mansion-garden-stuff",
     "name": "The Sims 2: Mansion & Garden Stuff",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC DVD-ROM",
     "condition": "CIB",
     "date_added": "2026-05-26",
@@ -514,7 +514,7 @@
   {
     "id": "the-sims-2-best-of-business-collection",
     "name": "The Sims 2: Best of Business Collection",
-    "type": "video-game",
+    "type": "Video Game",
     "format": "PC DVD-ROM",
     "condition": "CIB",
     "date_added": "2026-01-31",
@@ -530,7 +530,7 @@
   {
     "id": "monty-pythons-life-of-brian",
     "name": "Monty Python’s Life of Brian",
-    "type": "movie",
+    "type": "Movie",
     "format": "Blu-Ray",
     "condition": "CIB",
     "date_added": "2026-07-16",
@@ -546,7 +546,7 @@
   {
     "id": "dr-strangelove",
     "name": "Dr. Strangelove, or: How I Learned to Stop Worrying and Love the Bomb",
-    "type": "movie",
+    "type": "Movie",
     "format": "Blu-Ray",
     "condition": "CIB",
     "date_added": "2026-07-16",
@@ -562,7 +562,7 @@
   {
     "id": "true-stories",
     "name": "True Stories",
-    "type": "movie",
+    "type": "Movie",
     "format": "Blu-Ray",
     "condition": "CIB",
     "date_added": "2026-07-16",
@@ -578,7 +578,7 @@
   {
     "id": "marty-supreme",
     "name": "Marty Supreme",
-    "type": "movie",
+    "type": "Movie",
     "format": "UHD Blu-Ray",
     "condition": "CIB",
     "date_added": "2026-07-16",
@@ -594,7 +594,7 @@
   {
     "id": "eddington",
     "name": "Eddington",
-    "type": "movie",
+    "type": "Movie",
     "format": "Blu-Ray",
     "condition": "CIB",
     "date_added": "2026-07-16",
