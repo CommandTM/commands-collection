@@ -622,5 +622,37 @@
         "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zpf.webp"
       }
     ]
+  },
+  {
+    "id": "the-sims-unleashed",
+    "name": "The Sims: Unleashed",
+    "type": "Video Game",
+    "format": "PC CD-ROM",
+    "condition": "Loose",
+    "date_added": "2026-07-20",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1znx.webp"
+      }
+    ]
+  },
+  {
+    "id": "quake-iii-arena",
+    "name": "Quake III Arena",
+    "type": "Video Game",
+    "format": "PC CD-ROM",
+    "condition": "Loose",
+    "date_added": "2026-07-20",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ybj.webp"
+      }
+    ]
   }
 ]
