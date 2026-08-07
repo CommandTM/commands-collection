@@ -654,5 +654,53 @@
         "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ybj.webp"
       }
     ]
+  },
+  {
+    "id": "the-sims-3-seasons",
+    "name": "The Sims 3: Seasons",
+    "type": "Video Game",
+    "format": "PC DVD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-08-07",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zpm.webp"
+      }
+    ]
+  },
+  {
+    "id": "the-sims-3-supernatural",
+    "name": "The Sims 3: Supernatural",
+    "type": "Video Game",
+    "format": "PC DVD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-08-07",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zpl.webp"
+      }
+    ]
+  },
+  {
+    "id": "the-sims-3-ambitions",
+    "name": "The Sims 3: Ambitions",
+    "type": "Video Game",
+    "format": "PC DVD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-08-07",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zph.webp"
+      }
+    ]
   }
 ]
