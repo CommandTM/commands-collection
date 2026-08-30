@@ -702,5 +702,229 @@
         "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zph.webp"
       }
     ]
+  },
+  {
+    "id": "the-sims-3-70s-80s-and-90s-stuff",
+    "name": "The Sims 3: 70s, 80s, & 90s Stuff",
+    "type": "Video Game",
+    "format": "PC DVD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-08-17",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3hh5.webp"
+      }
+    ]
+  },
+  {
+    "id": "the-sims-3-town-life-stuff",
+    "name": "The Sims 3: Town Life Stuff",
+    "type": "Video Game",
+    "format": "PC DVD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-08-22",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3hgz.webp"
+      }
+    ]
+  },
+  {
+    "id": "the-sims-3-outdoor-living-stuff",
+    "name": "The Sims 3: Outdoor Living Stuff",
+    "type": "Video Game",
+    "format": "PC DVD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-08-22",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3hgy.webp"
+      }
+    ]
+  },
+  {
+    "id": "the-sims-3-fast-lane-stuff",
+    "name": "The Sims 3: Fast Lane Stuff",
+    "type": "Video Game",
+    "format": "PC DVD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-08-22",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3hgx.webp"
+      }
+    ]
+  },
+  {
+    "id": "the-sims-3-high-end-loft-stuff",
+    "name": "The Sims 3: High-End Loft Stuff",
+    "type": "Video Game",
+    "format": "PC DVD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-08-22",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3hgw.webp"
+      }
+    ]
+  },
+  {
+    "id": "the-sims-3-generations",
+    "name": "The Sims 3: Generations",
+    "type": "Video Game",
+    "format": "PC DVD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-08-27",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zpi.webp"
+      }
+    ]
+  },
+  {
+    "id": "the-sims-3-master-suite-stuff",
+    "name": "The Sims 3: Master Suite Stuff",
+    "type": "Video Game",
+    "format": "PC DVD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-08-27",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3hh0.webp"
+      }
+    ]
+  },
+  {
+    "id": "the-sims-3-diesel-stuff",
+    "name": "The Sims 3: Diesel Stuff",
+    "type": "Video Game",
+    "format": "PC DVD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-08-27",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3hh4.webp"
+      }
+    ]
+  },
+  {
+    "id": "backrooms",
+    "name": "Backrooms",
+    "type": "Movie",
+    "format": "Blu-Ray",
+    "condition": "CIB",
+    "date_added": "2026-08-28",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://shop.a24films.com/cdn/shop/files/03_Backrooms_Cover_Front_With_Digipak.jpg?v=1783981132"
+      }
+    ]
+  },
+  {
+    "id": "starcraft",
+    "name": "StarCraft",
+    "type": "Video Game",
+    "format": "PC CD-ROM",
+    "condition": "Loose",
+    "date_added": "2026-08-29",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9n6m.webp"
+      }
+    ]
+  },
+  {
+    "id": "extreme-pinball",
+    "name": "Extreme Pinball",
+    "type": "Video Game",
+    "format": "PS1",
+    "condition": "CIB",
+    "date_added": "2026-08-29",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://upload.wikimedia.org/wikipedia/en/5/52/Extreme_Pinball_Cover.jpg"
+      }
+    ]
+  },
+  {
+    "id": "syphon-filter",
+    "name": "Syphon Filter",
+    "type": "Video Game",
+    "format": "PS1",
+    "condition": "CIB",
+    "date_added": "2026-08-29",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://upload.wikimedia.org/wikipedia/en/f/f9/Syphon_Filter_US_Cover.jpg"
+      }
+    ]
+  },
+  {
+    "id": "the-sims-2-psp",
+    "name": "The Sims 2 (PSP)",
+    "type": "Video Game",
+    "format": "PSP",
+    "condition": "CIB",
+    "date_added": "2026-08-29",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8g19.webp"
+      }
+    ]
+  },
+  {
+    "id": "metal-gear-solid",
+    "name": "Metal Gear Solid",
+    "type": "Video Game",
+    "format": "PS1",
+    "condition": "CIB",
+    "date_added": "2026-08-29",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Metal_Gear_Solid_cover_art.png/250px-Metal_Gear_Solid_cover_art.png"
+      }
+    ]
   }
 ]
