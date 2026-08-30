@@ -1,5 +1,50 @@
 [
   {
+    "id": "metal-gear-solid-2-sons-of-liberty",
+    "name": "Metal Gear Solid 2: Sons of Liberty",
+    "type": "Video Game",
+    "format": "PS2",
+    "condition": "CIB",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Metalgear2boxart.jpg/250px-Metalgear2boxart.jpg"
+      }
+    ]
+  },
+  {
+    "id": "metal-gear-solid-3-snake-eater",
+    "name": "Metal Gear Solid 3: Snake Eater",
+    "type": "Video Game",
+    "format": "PS2",
+    "condition": "CIB",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Mgs3box.jpg/250px-Mgs3box.jpg"
+      }
+    ]
+  },
+  {
+    "id": "metal-gear-solid-4-guns-of-the-patriots",
+    "name": "Metal Gear Solid 4: Guns of the Patriots",
+    "type": "Video Game",
+    "format": "PS2",
+    "condition": "CIB",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Mgs4us_cover_small.jpg/250px-Mgs4us_cover_small.jpg"
+      }
+    ]
+  },
+  {
     "id": "the-sims",
     "name": "The Sims",
     "type": "Video Game",
