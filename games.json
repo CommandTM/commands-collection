@@ -971,5 +971,37 @@
         "link": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Metal_Gear_Solid_cover_art.png/250px-Metal_Gear_Solid_cover_art.png"
       }
     ]
+  },
+  {
+    "id": "the-sims-3-katy-perry-sweet-treats-stuff",
+    "name": "The Sims 3: Katy Perry's Sweet Treats Stuff",
+    "type": "Video Game",
+    "format": "PC DVD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-08-31",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3hh2.webp"
+      }
+    ]
+  },
+  {
+    "id": "the-sims-3-movie-stuff",
+    "name": "The Sims 3: Movie Stuff",
+    "type": "Video Game",
+    "format": "PC DVD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-08-31",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3hh6.webp"
+      }
+    ]
   }
 ]
