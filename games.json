@@ -1003,5 +1003,69 @@
         "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3hh6.webp"
       }
     ]
+  },
+  {
+    "id": "dune",
+    "name": "Dune",
+    "type": "Movie",
+    "format": "Blu-Ray",
+    "condition": "CIB",
+    "date_added": "2026-09-06",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.static-bluray.com/movies/covers/295801_large.jpg?t=1747374566"
+      }
+    ]
+  },
+  {
+    "id": "mad-max-fury-road",
+    "name": "Mad Max: Fury Road",
+    "type": "Movie",
+    "format": "Blu-Ray",
+    "condition": "CIB",
+    "date_added": "2026-09-06",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.static-bluray.com/movies/covers/74537_large.jpg?t=1748067910"
+      }
+    ]
+  },
+  {
+    "id": "the-sims-3-world-adventures",
+    "name": "The Sims 3: World Adventures",
+    "type": "Video Game",
+    "format": "PC DVD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-10-14",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zpg.webp"
+      }
+    ]
+  },
+  {
+    "id": "dune-part-two",
+    "name": "Dune: Part Two",
+    "type": "Movie",
+    "format": "Blu-Ray",
+    "condition": "CIB",
+    "date_added": "2026-09-20",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.static-bluray.com/movies/covers/337582_large.jpg?t=1759999855"
+      }
+    ]
   }
 ]
