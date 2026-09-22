@@ -1067,5 +1067,21 @@
         "link": "https://images.static-bluray.com/movies/covers/337582_large.jpg?t=1759999855"
       }
     ]
+  },
+  {
+    "id": "the-sims-3-university-life",
+    "name": "The Sims 3: University Life",
+    "type": "Video Game",
+    "format": "PC DVD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-09-22",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zpn.webp"
+      }
+    ]
   }
 ]
