@@ -1083,5 +1083,37 @@
         "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zpn.webp"
       }
     ]
+  },
+  {
+    "id": "the-sims-3-showtime-limited",
+    "name": "The Sims 3: Showtime Limited Edition",
+    "type": "Video Game",
+    "format": "PC DVD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-09-26",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3hgu.webp"
+      }
+    ]
+  },
+  {
+    "id": "la-la-land",
+    "name": "La La Land",
+    "type": "Movie",
+    "format": "UHD Blu-Ray",
+    "condition": "CIB",
+    "date_added": "2026-10-23",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.static-bluray.com/movies/covers/170219_large.jpg?t=1489719327"
+      }
+    ]
   }
 ]
