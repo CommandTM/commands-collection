@@ -1115,5 +1115,21 @@
         "link": "https://images.static-bluray.com/movies/covers/170219_large.jpg?t=1489719327"
       }
     ]
+  },
+  {
+    "id": "oppenheimer",
+    "name": "Oppenheimer",
+    "type": "Movie",
+    "format": "UHD Blu-Ray",
+    "condition": "CIB",
+    "date_added": "2026-10-25",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.static-bluray.com/movies/covers/320854_large.jpg?t=1697594245"
+      }
+    ]
   }
 ]
