@@ -1131,5 +1131,21 @@
         "link": "https://images.static-bluray.com/movies/covers/320854_large.jpg?t=1697594245"
       }
     ]
+  },
+  {
+    "id": "the-sims-3-into-the-future-limited",
+    "name": "The Sims 3: Into the Future Limited Edition",
+    "type": "Video Game",
+    "format": "PC DVD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-10-29",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zpp.webp"
+      }
+    ]
   }
 ]
