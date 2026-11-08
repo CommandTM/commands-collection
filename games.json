@@ -1147,5 +1147,53 @@
         "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zpp.webp"
       }
     ]
+  },
+  {
+    "id": "the-sims-3-island-paradise",
+    "name": "The Sims 3: Island Paradise",
+    "type": "Video Game",
+    "format": "PC DVD-ROM",
+    "condition": "CIB",
+    "date_added": "2026-11-05",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zpo.webp"
+      }
+    ]
+  },
+  {
+    "id": "hundreds-of-beavers",
+    "name": "Hundreds of Beavers",
+    "type": "Movie",
+    "format": "Blu-Ray",
+    "condition": "CIB",
+    "date_added": "2026-11-02",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.static-bluray.com/movies/covers/377019_large.jpg?t=1733447751"
+      }
+    ]
+  },
+  {
+    "id": "videodrome",
+    "name": "Videodrome",
+    "type": "Movie",
+    "format": "UHD Blu-Ray",
+    "condition": "CIB",
+    "date_added": "2026-11-05",
+    "thumbnail_image_id": 0,
+    "images": [
+      {
+        "id": 0,
+        "type": "external",
+        "link": "https://images.static-bluray.com/movies/covers/341950_large.jpg?t=1689624902"
+      }
+    ]
   }
 ]
